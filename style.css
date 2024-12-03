@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    background-image: url("dance.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #333; /* Darker background */
+    color: #fff;
+    font-family: 'YourFontName', sans-serif; /* Replace 'YourFontName' with the actual font name */
+  }
+  
+  /* Other styles as before */

@@ -1,0 +1,19 @@
+body {
+    font-family: 'YourFontName', sans-serif; /* Replace 'YourFontName' with your font family */
+    font-size: 16px; /* Base font size */
+    line-height: 1.6; /* Line height for better readability */
+  }
+  
+  h1 {
+    font-size: 3.5em;
+    font-weight: bold;
+    /* Add more styles as needed */
+  }
+  
+  p {
+    font-size: 1.5em;
+    /* Add more styles as needed */
+  }
+  li{
+    font-size: 20px;
+  }
